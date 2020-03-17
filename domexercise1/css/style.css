@@ -1,0 +1,11 @@
+* {
+    text-align: center;
+}
+
+button .bluebut {
+    background-color: blue
+}
+
+button .redbut {
+    background-color: red;
+}
